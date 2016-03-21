@@ -1,2 +1,8 @@
 .DS_Store
 .ipynb_checkpoints
+*_files
+*.aux
+*.log
+*.tex
+*.out
+kolodzey_496*.pdf
