@@ -39,3 +39,8 @@ python3 gen_pdf.py your-file.ipynb
 '''
 
 По идее, должно работать на любом компьютере с python3, jupyter и pdflatex. Скрипт рядом с файлом your-file.ipynb генерирует your-file.pdf. Будьте осторожны, скрипт никак не проверяет коллизии названий (в том числе у промежуточных файлов).
+
+Python fixes
+============
+
+[какая-то ерунда с кодировкой](https://coderwall.com/p/-k_93g/mac-os-x-valueerror-unknown-locale-utf-8-in-python)
